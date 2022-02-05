@@ -6,6 +6,7 @@ public class Runner {
 		Alien a1=new Alien();
 		a1.setName("Ragul");
 		System.out.println(a1.getName());
+		System.out.println("Ragul");
 
 	}
 
